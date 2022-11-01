@@ -1,0 +1,55 @@
+.container
+{
+    height: 1000px;
+    width: 100%;
+    background-color: yellow;
+
+}
+.row
+{
+    height: 1000px;
+    height: 90%;
+    background-color: greenyellow;
+    margin: auto;
+
+}
+.title
+{
+    height: 100px;
+    width: 100%;
+    background-color: dodgerblue;
+
+}
+.menu
+{
+    height: 100px;
+    width: 100%;
+    background-color: purple;
+    
+}
+.row1
+{
+    height: 700px;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+}
+.left
+{
+    height: 700px;
+    width: 70%;
+    background-color: rgba(rgb(170, 58, 58), green, blue, alpha);
+    display: inline-block;
+}
+.right
+{
+    height: 700px;
+    width: 30%;
+    background-color: khaki;
+    display: inline-block;
+}
+.tech
+{
+    text-align: center;
+    font-weight: bold;
+}
